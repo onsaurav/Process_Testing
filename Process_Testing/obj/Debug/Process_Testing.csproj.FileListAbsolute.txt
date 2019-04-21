@@ -1,0 +1,12 @@
+E:\Projects\OMS\Mail\EELA\ProcessMail EELA Mar-18-2010-1 testing\PTesting\Process_Testing\Process_Testing\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\OMS\Mail\EELA\ProcessMail EELA Mar-18-2010-1 testing\PTesting\Process_Testing\Process_Testing\obj\Debug\Process_Testing.Form1.resources
+E:\Projects\OMS\Mail\EELA\ProcessMail EELA Mar-18-2010-1 testing\PTesting\Process_Testing\Process_Testing\obj\Debug\Process_Testing.Properties.Resources.resources
+E:\Projects\OMS\Mail\EELA\ProcessMail EELA Mar-18-2010-1 testing\PTesting\Process_Testing\Process_Testing\obj\Debug\Process_Testing.csproj.GenerateResource.Cache
+E:\Projects\OMS\Mail\EELA\ProcessMail EELA Mar-18-2010-1 testing\PTesting\Process_Testing\Process_Testing\bin\Debug\Process_Testing.exe
+E:\Projects\OMS\Mail\EELA\ProcessMail EELA Mar-18-2010-1 testing\PTesting\Process_Testing\Process_Testing\bin\Debug\Process_Testing.pdb
+E:\Projects\OMS\Mail\EELA\ProcessMail EELA Mar-18-2010-1 testing\PTesting\Process_Testing\Process_Testing\obj\Debug\Process_Testing.exe
+E:\Projects\OMS\Mail\EELA\ProcessMail EELA Mar-18-2010-1 testing\PTesting\Process_Testing\Process_Testing\obj\Debug\Process_Testing.pdb
+E:\Projects\OMS\Mail\EELA\Others\SendingMailByC#\Process_Testing\Process_Testing\obj\Debug\Process_Testing.exe
+E:\Projects\OMS\Mail\EELA\Others\SendingMailByC#\Process_Testing\Process_Testing\obj\Debug\Process_Testing.pdb
+E:\My Soft\C#\Mail\Process_Testing\Process_Testing\obj\Debug\Process_Testing.exe
+E:\My Soft\C#\Mail\Process_Testing\Process_Testing\obj\Debug\Process_Testing.pdb

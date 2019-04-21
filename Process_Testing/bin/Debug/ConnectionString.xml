@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>Data Source=.;Initial Catalog=EELA;Integrated Security=True</connectionStrings>
+</configuration>
